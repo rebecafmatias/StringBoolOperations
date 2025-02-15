@@ -51,11 +51,11 @@ Output: True if the numbers are equal, or False if they aredifferent.
 ## How to Run
 1. Clone the repository to your local machine:
 
-    ``git clone https://github.com/your-username/repository-name.git``
+    ``git clone https://github.com/rebecafmatias/StringBoolOperations.git``
 
 2. Navigate to the repository directory:
 
-    ``cd repository-name``
+    ``cd StringBoolOperations``
 
 3. Run the Python script. Make sure you have Python installed:
 
